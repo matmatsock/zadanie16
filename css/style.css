@@ -1,9 +1,14 @@
 div{
-width: 4cm; height: 4cm; background-color: #fea500;
- margin: 5mm;}
- h1{
+     width: 4cm;
+     height: 4cm;
+     background-color: #fea500;
+     margin: 5mm;
+    }
+
+h1{
      font-size: 10mm;
- }
- body{
+  }
+
+body{
      background-color: #808080;
     }
